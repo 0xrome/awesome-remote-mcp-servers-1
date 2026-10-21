@@ -1739,6 +1739,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DashThis](https://dashthis.com) `https://mcp.dashthis.com`
   [![DashThis MCP connector](https://glama.ai/mcp/connectors/com.dashthis/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.dashthis/mcp)
   🔐 - Work with your marketing reporting dashboards and turn the numbers into client-ready updates.
+- [Debriefing](https://debriefing.io) `https://debriefing.io/mcp`
+  [![Debriefing MCP connector](https://glama.ai/mcp/connectors/io.debriefing/debriefing/badges/score.svg)](https://glama.ai/mcp/connectors/io.debriefing/debriefing)
+  🔐 - Competitive intelligence: evidence-backed competitor signals, digests and battlecards for the rivals you track.
 - [Deeplead](https://www.deeplead.io) `https://www.deeplead.io/api/mcp`
   [![Deeplead MCP connector](https://glama.ai/mcp/connectors/io.deeplead/deeplead/badges/score.svg)](https://glama.ai/mcp/connectors/io.deeplead/deeplead)
   🔓 - Search local businesses, companies and people, and find their decision makers with verified emails and phone numbers.
@@ -1829,6 +1832,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [QRFLOW.codes](https://qrflow.codes) `https://qrflow.codes/mcp`
   [![QRFLOW.codes MCP connector](https://glama.ai/mcp/connectors/codes.qrflow/qrflow/badges/score.svg)](https://glama.ai/mcp/connectors/codes.qrflow/qrflow)
   🔐 - Create QR codes, re-point printed dynamic codes, name links on your own domain, and read scan analytics.
+- [Rankwise](https://tryrankwise.com) `https://tryrankwise.com/api/mcp`
+  [![Rankwise MCP connector](https://glama.ai/mcp/connectors/com.tryrankwise/rankwise/badges/score.svg)](https://glama.ai/mcp/connectors/com.tryrankwise/rankwise)
+  🔓 - AI search visibility: check AI crawler access and citation readiness; OAuth adds tracking, briefs and articles.
 - [Reach MCP](https://www.reachmcp.com) `https://app.reachmcp.com/mcp`
   [![Reach MCP connector](https://glama.ai/mcp/connectors/com.reachmcp/linkedin/badges/score.svg)](https://glama.ai/mcp/connectors/com.reachmcp/linkedin)
   🔐 - Operate a LinkedIn account: inbox, invitations, Sales Navigator search, posts; enforced daily quotas, webhooks.
